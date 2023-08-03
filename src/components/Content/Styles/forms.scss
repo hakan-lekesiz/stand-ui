@@ -1,0 +1,22 @@
+.custom-form-01 {
+    width: 500px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none !important;
+}
+.spinner-01 {
+    height: 25px;
+    margin-left: 10px;
+}
+.has-error {
+    .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+        border: 1px solid #d32f2f;
+    }
+}
+@media (max-width: 767px) {
+    .custom-form-01 {
+        width: calc(100% - 40px);
+        margin: 0 auto;
+    }
+}
